@@ -4,7 +4,7 @@ title: JavaScript Concepts
 permalink: /javascript-concepts/
 ---
 
-_This is an ongoing list..._
+_This list is an ongoing effort._
 
 + [Understanding Hoisting in JavaScript](https://kennyalmendral.github.io/understanding-javascript-hoisting/){:target="_blank"}
 + [Execution Context in JavaScript](https://kennyalmendral.github.io/javascript-execution-context/){:target="_blank"}
