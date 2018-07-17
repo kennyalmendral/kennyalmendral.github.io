@@ -6,6 +6,6 @@ permalink: /about/
 
 I try to write about what I already know and what I’m currently learning about [this damn industry](https://code.tutsplus.com/articles/this-damn-industry--net-17054){:target="_blank"}.
 
-When not glued to my computer, I can be seen wandering around empty streets nearby during midnight, contemplating the reasons for my existence...
+When not glued to my computer, I can be seen wandering around empty streets nearby during midnight, contemplating the reasons for my existence... Anyways, I do have an [Instagram account](https://www.instagram.com/artmendral/){:target="_blank"} where I upload art-related stuff and a [YouTube channel](https://www.youtube.com/channel/UCGKZf2mm26IdIz5uVCV_y0w){:target="_blank"} for music-related stuff.
 
-Anyways, I do have an [Instagram account](https://www.instagram.com/artmendral/){:target="_blank"} where I upload art-related stuff and a [YouTube channel](https://www.youtube.com/channel/UCGKZf2mm26IdIz5uVCV_y0w){:target="_blank"} for music-related stuff.
+If you want to get in touch, [send me an email](mailto:kennyalmendral@gmail.com) or [message me on Facebook](https://facebook.com/kennyalmendral){:target="_blank"}.
