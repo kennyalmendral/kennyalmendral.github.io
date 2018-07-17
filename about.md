@@ -8,4 +8,4 @@ I try to write about what I already know and what I’m currently learning about
 
 When not glued to my computer, I can be seen wandering around empty streets nearby during midnight, contemplating the reasons for my existence...
 
-Anyways, I do have an [Instagram](https://www.instagram.com/kennyalmendral.art/){:target="_blank"} account where I upload art-related stuff and a [YouTube](https://www.youtube.com/channel/UCGKZf2mm26IdIz5uVCV_y0w){:target="_blank"} channel for music-related stuff _(mostly covers)_.
+Anyways, I do have an [Instagram account](https://www.instagram.com/kennyalmendral.art/){:target="_blank"} where I upload art-related stuff and a [YouTube channel](https://www.youtube.com/channel/UCGKZf2mm26IdIz5uVCV_y0w){:target="_blank"} for music-related stuff _(mostly covers)_.
