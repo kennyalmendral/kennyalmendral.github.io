@@ -19,16 +19,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: kennyalmendral@gmail.com
-  facebook:
+  facebook: kennyalmendral
   flickr:
   github: kennyalmendral
-  instagram:
+  instagram: kenny_almendral
   linkedin:
   pinterest:
   rss: https://kennyalmendral.github.io/feed.xml
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube:
+  youtube: KennyAlmendral
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
