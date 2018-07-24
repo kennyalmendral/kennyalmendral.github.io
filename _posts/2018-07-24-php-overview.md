@@ -31,7 +31,7 @@ When talking about "server-side" and its opposite, which is "client-side", what 
 
 PHP doesn't need to be compiled, it's executed by the web server exactly as it's written while compiled languages like Java or C# needs a compiler before it can be executed.
 
-###Designed to be used with HTML.
+###Designed to be used with HTML
 
 PHP generates HTML and can be embedded in any HTML markup.
 
