@@ -1,14 +1,9 @@
 ---
 layout: post
-title: The JavaScript Scope Chain
+title: PHP Overview
 ---
 
-#PHP Overview
----
-
-###PHP
-
-+ Commonly known as a programming language for the web but technically speaking it is not. It's actually a server-side scripting language. 
++ PHP is commonly known as a programming language for the web but technically speaking it is not. It's actually a server-side scripting language. 
 
  + A *Script*
 
