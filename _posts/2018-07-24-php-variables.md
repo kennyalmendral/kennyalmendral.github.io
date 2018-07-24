@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Variable
+title: Variables in PHP
 ---
 
-A symbolic representation of a value. As its name suggest, it can "vary" overtime because it can point to different values. 
+A variable is symbolic representation of a value. As its name suggest, it can "vary" overtime because it can point to different values.
 
 + Start with a $ sign
 + Followed by a letter or underscore
