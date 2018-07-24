@@ -3,7 +3,7 @@ layout: post
 title: PHP Strings
 ---
 
-A string is a set of characters (letters, numbers, symbols) that's defined inside quotation marks either single quotes, e.g. 'This is a string' or double quotes, e.g. "This is a string".
+A string is a set of characters (letters, numbers, symbols) that's defined inside quotation marks either single quotes, e.g. `'This is a string'` or double quotes, e.g. `"This is a string"`.
 
 **Example Code:**
 
