@@ -25,13 +25,7 @@ $_var
 $__var
 ```
 
-`$myVar` is in a format called [Camel Case](https://en.wikipedia.org/wiki/Camel_case){:target="_blank"}.
-
-`$MyVar` is in a format called [Pascal Case](http://wiki.c2.com/?PascalCase){:target="_blank"}.
-
-`$my_var` is in a format called [Snake Case](https://en.wikipedia.org/wiki/Snake_case){:target="_blank"}.
-
-These are the most commonly used naming conventions.
+`$myVar` is in a format called [Camel Case](https://en.wikipedia.org/wiki/Camel_case){:target="_blank"}, `$MyVar` is in a format called [Pascal Case](http://wiki.c2.com/?PascalCase){:target="_blank"} and `$my_var` is in a format called [Snake Case](https://en.wikipedia.org/wiki/Snake_case){:target="_blank"}. These are the most commonly used naming conventions.
 
 **Example code:**
 
