@@ -16,7 +16,7 @@ echo "$greeting $name!"; // Outputs: Hello John!
 echo "{$greeting} $name!"; // Outputs: Hello John!
 ```
 
-In the example code above:
+In the example code above
 
 + The `echo $greeting . ' ' . $name . '!';` uses "concatenation" which combines/concatenates values using the dot operator.
 + The `echo "$greeting $name!";` uses "interpolation" which expands variable value when wrapped inside double quotes.
