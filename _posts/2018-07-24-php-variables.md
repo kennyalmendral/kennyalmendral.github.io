@@ -7,7 +7,7 @@ A variable is symbolic representation of a value. As its name suggest, it can "v
 
 PHP Variables...
 
-+ Start with a $ sign
++ Begin with a dollar sign
 + Followed by a letter or underscore
 + Can contain letters, numbers, underscores or dashes
 + No spaces in between
