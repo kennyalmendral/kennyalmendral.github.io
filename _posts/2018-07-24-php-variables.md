@@ -5,13 +5,13 @@ title: PHP Variables
 
 A variable is symbolic representation of a value. As its name suggest, it can "vary" overtime because it can point to different values.
 
+PHP Variables
+
 + Start with a $ sign
 + Followed by a letter or underscore
 + Can contain letters, numbers, underscores or dashes
 + No spaces in between
 + Case-sensitive, e.g. lowercase a is different from uppercase A
-
-Some examples of variables in PHP:
 
 ```
 $var
