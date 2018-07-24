@@ -5,7 +5,7 @@ title: PHP Variables
 
 A variable is symbolic representation of a value. As its name suggest, it can "vary" overtime because it can point to different values.
 
-PHP Variables
+PHP Variables...
 
 + Start with a $ sign
 + Followed by a letter or underscore
