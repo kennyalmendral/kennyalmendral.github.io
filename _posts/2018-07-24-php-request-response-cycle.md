@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Request-Response Cycle
+title: PHP Request-Response Cycle
 ---
 
 This cycle in PHP describes the way that a browser and a web server communicate to process user requests. It may seem simple, but it's important to keep it in mind while developing with PHP because things like header redirection, output buffering and setting cookies are all affected by this cycle.
