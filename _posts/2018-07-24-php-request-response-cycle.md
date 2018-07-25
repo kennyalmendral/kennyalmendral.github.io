@@ -14,5 +14,11 @@ This cycle in PHP describes the way that a browser and a web server communicate 
 5. Afterwards, it then goes to the file system and looks for that file. When found, it checks if that file has a `.php` extension and if there is, the PHP code in that file will be processed.
 6. During the processing, Apache may need to go back and forth to the database a couple of times, it may be to request some information from the database, store information in the database, etc.
 7. Once the processing is done, there's one final step in which it assembles the HTML markup that's going to be returned and then sends that back to the browser and that's the response that the user sees.
+
+**Previous Post:** [PHP Overview](https://kennyalmendral.github.io/php-overview/)
+
+**Next Post:** [PHP Request-Response Cycle](https://kennyalmendral.github.io/php-request-response-cycle/)
+
+_This is part 2 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
     
 ---
