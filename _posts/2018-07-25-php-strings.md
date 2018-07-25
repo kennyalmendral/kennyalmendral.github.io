@@ -27,12 +27,7 @@ $table_prefix = 'site_';
 echo "{$table_prefix}users"; // Outputs: site_users
 ```
 
-When a string needs to contain symbols aside from letters like quotation marks, enclose it in single quotes or if you want to use double quotes, use the backslash escape character, for example:
-
-```php
-echo '"Hello John!"'; // Outputs: "Hello John!"
-echo "\"Hello John!\""; // Outputs: "Hello John!"
-```
+When a string needs to contain characters like quotation marks, enclose it in single quotes, e.g. `'"Hello John!"'` or if you want to use double quotes instead, prepend it with a backslash, e.g. `"\"Hello John!\""`.
 
 You can append values to an existing variable using the dot equals operator, for example:
 
