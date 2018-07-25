@@ -34,5 +34,11 @@ PHP doesn't need to be compiled, it's executed by the web server exactly as it's
 ## Designed to be used with HTML
 
 PHP generates HTML and can be embedded in any HTML markup, think of PHP as the input and HTML as the output.
+
+**Previous Post:** [PHP Variables](https://kennyalmendral.github.io/php-variables/)
+
+**Next Post:** [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
+
+_This is part 1 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
     
 ---
