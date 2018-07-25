@@ -5,7 +5,7 @@ title: PHP Overview
 
 PHP is commonly known as a programming language for the web but technically speaking it is not. It's actually a server-side scripting language. The main differences between the two are:
 
-+ A *Script*
++ A Script
 
     + Runs in response to an event
     + Performs instructions from top to bottom
@@ -13,7 +13,7 @@ PHP is commonly known as a programming language for the web but technically spea
 
     A PHP script doesn't run until a web page is requested.
 
- + On the other hand, a *Program* 
+ + On the other hand, a Program
 
     + Runs even when not responding to events, it continues to run and wait for interaction, whether that interaction comes from a user making choices or from other programs making input.
     + Jumps around instructions, so there's no clear start and end point.
@@ -33,6 +33,6 @@ PHP doesn't need to be compiled, it's executed by the web server exactly as it's
 
 ## Designed to be used with HTML
 
-PHP generates HTML and can be embedded in any HTML markup, think of PHP as the *input* and HTML as the *output*.
+PHP generates HTML and can be embedded in any HTML markup, think of PHP as the input and HTML as the output.
     
 ---
