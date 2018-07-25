@@ -232,8 +232,12 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0;
+    margin-left: 15px;
+    
+	  
 
     @include mobile {
       margin: 0 10px;
