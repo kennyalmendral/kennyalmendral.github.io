@@ -42,7 +42,6 @@ $var .= ' World';
 echo $var; // Outputs: Hello World
 ```
 
-
 Or its long format...
 
 ```php
