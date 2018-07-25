@@ -46,7 +46,6 @@ $var = $var . ' World';
 echo $var; // Outputs: Hello World
 ```
 
-
 **Previous Post:** [PHP Variables](https://kennyalmendral.github.io/php-variables/)
 
 **Next Post:** [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
