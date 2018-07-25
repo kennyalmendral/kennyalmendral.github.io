@@ -39,6 +39,12 @@ echo $sample_var; // Outputs: World
 
 In the example code above, `$sample_var` will contain the string `'Hello'` and then it gets displayed using the `echo` PHP construct. Afterwards, `$sample_var` was changed to the string `'World'` and then gets displayed again.
 
-**Note:** PHP has some words that are "reserved". These are words that you're not allowed to use when naming your variables. See [http://www.php.net/manual/en/reserved.php](http://www.php.net/manual/en/reserved.php){:target="_blank"} for reference.
+PHP has some words that are "reserved". These are words that you're not allowed to use when naming your variables. See [http://www.php.net/manual/en/reserved.php](http://www.php.net/manual/en/reserved.php){:target="_blank"} for reference.
+
+**Previous Post:** [PHP Request-Response Cycle](https://kennyalmendral.github.io/php-request-response-cycle/)
+
+**Next Post:** [PHP Strings](https://kennyalmendral.github.io/php-strings/)
+
+_This is part 3 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
     
 ---
