@@ -42,6 +42,8 @@ You can append values to an existing variable using the dot equals operator, e.g
 
 **Next Post:** [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
 
-_This is part 4 of the (PHP Basics)[https://kennyalmendral.github.io/php-basics/]{:target="_blank"} series._
+---
+
+This is part 4 of the (PHP Basics)[https://kennyalmendral.github.io/php-basics/]{:target="_blank"} series.
 
 ---
