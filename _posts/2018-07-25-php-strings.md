@@ -36,6 +36,9 @@ The `echo "{$greeting} $name!";` uses "in-place substitution" which expands vari
 
 When a string needs to contain symbols aside from letters like quotation marks, enclose it in single quotes, e.g. `'"Hello John!"'` or if you want to use double quotes, use the backslash escape character, e.g. `"\"Hello John!\""`.
 
-You can append values to an existing variable using the *.=* operator, e.g. `$var .= ' World';` or its long format, e.g. `$var = $var . ' World';`.
+You can append values to an existing variable using the dot equals operator, e.g. `$var .= ' World';` or its long format, e.g. `$var = $var . ' World';`.
+
+**Previous Post:** [PHP Variables](https://kennyalmendral.github.io/php-variables/)
+**Next Post:** [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
 
 ---
