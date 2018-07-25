@@ -38,10 +38,10 @@ When a string needs to contain symbols aside from letters like quotation marks, 
 
 You can append values to an existing variable using the dot equals operator, e.g. `$var .= ' World';` or its long format, e.g. `$var = $var . ' World';`.
 
-_Previous Post:_ [PHP Variables](https://kennyalmendral.github.io/php-variables/)
+**Previous Post:** [PHP Variables](https://kennyalmendral.github.io/php-variables/)
 
-_Next Post:_ [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
+**Next Post:** [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
 
-> This is part 4 of the (PHP Basics)[https://kennyalmendral.github.io/php-basics/]{:target="_blank"} series.
+_This is part 4 of the (PHP Basics)[https://kennyalmendral.github.io/php-basics/]{:target="_blank"} series._
 
 ---
