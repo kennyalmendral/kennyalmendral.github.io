@@ -20,21 +20,21 @@ The `echo $greeting . ' ' . $name . '!';` uses "concatenation" which combines/co
 
 The `echo "$greeting $name!";` uses "interpolation" which expands variable value when wrapped inside double quotes.
 
-The `echo "{$greeting} $name!";` uses "in-place substitution" which expands variable value inside curly braces that are inside double quotes. This can be useful when prefixing or suffixing a string.
+The `echo "{$greeting} $name!";` uses "in-place substitution" which expands variable value inside curly braces that are inside double quotes. This can be useful when prefixing or suffixing a string, for example:
 
 ```php
 $table_prefix = 'site_';
 echo "{$table_prefix}users"; // Outputs: site_users
 ```
 
-When a string needs to contain symbols aside from letters like quotation marks, enclose it in single quotes or if you want to use double quotes, use the backslash escape character.
+When a string needs to contain symbols aside from letters like quotation marks, enclose it in single quotes or if you want to use double quotes, use the backslash escape character, for example:
 
 ```php
 echo '"Hello John!"'; // Outputs: "Hello John!"
 echo "\"Hello John!\""; // Outputs: "Hello John!"
 ```
 
-You can append values to an existing variable using the dot equals operator.
+You can append values to an existing variable using the dot equals operator, for example:
 
 ```php
 $var = 'Hello';
