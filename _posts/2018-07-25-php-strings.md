@@ -22,7 +22,7 @@ $var = 'Hello';
 $var .= ' World';
 echo $var; // Outputs: Hello World
 
-$var = 'Hello
+$var = 'Hello';
 $var = $var . ' World';
 echo $var; // Outputs: Hello World
 
