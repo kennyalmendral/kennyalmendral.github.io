@@ -27,7 +27,7 @@ When talking about "server-side" and its opposite, which is "client-side", what 
 
 The client-side Javascript code is sent to the user's browser and then it does its work there while PHP code is never sent to the user, it runs entirely on the server and the results of that code is what is sent to the user's browser and that's the big difference right there. Because PHP runs on a web server, that means it cannot run on its own.
 
-## Not a compiled language**
+## Not a compiled language
 
 PHP doesn't need to be compiled, it's executed by the web server exactly as it's written while compiled languages like Java or C# needs a compiler before it can be executed.
 
