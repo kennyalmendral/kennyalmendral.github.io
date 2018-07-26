@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PHP Variables
+title: PHP Variables and Comments
 ---
 
 A variable is symbolic representation of a value. As its name suggest, it can "vary" overtime because it can point to different values.
