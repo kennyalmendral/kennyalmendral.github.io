@@ -3,6 +3,8 @@ layout: post
 title: PHP Variables and Comments
 ---
 
+### Variables
+
 A variable is symbolic representation of a value. As its name suggest, it can "vary" overtime because it can point to different values.
 
 PHP Variables...
@@ -26,6 +28,24 @@ $__var
 ```
 
 `$myVar` is in a format called [Camel Case](https://en.wikipedia.org/wiki/Camel_case){:target="_blank"}, `$MyVar` is in a format called [Pascal Case](http://wiki.c2.com/?PascalCase){:target="_blank"} and `$my_var` is in a format called [Snake Case](https://en.wikipedia.org/wiki/Snake_case){:target="_blank"}. These are the most commonly used naming conventions.
+
+### Comments
+
+Adding comments in your code will help you and others to understand what your code is trying to accomplish and understand the approach that you took. Comments might take additional time to write, but it saves you time later. With that said, there are many ways to write comments in PHP:
+
++ Single line comments - `// This is a single line comment` or `# This is a single line comment`
++ Double line comments - `/* This is a comment */`
+
+Use double line comments when your comments contain line breaks, for example:
+
+```php
+/*
+This is a comment
+This is another comment
+*/
+```
+
+Also, take note that comments aren't displayed in the browser because it is simply ignored by the web server.
 
 **Example code:**
 
