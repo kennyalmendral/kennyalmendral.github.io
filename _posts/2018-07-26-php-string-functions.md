@@ -121,6 +121,8 @@ This function takes two inputs, the first input is the string being searched and
 echo strchr('This is a string', 'a'); // Outputs: a string
 ```
 
+<br>
+
 See [http://php.net/manual/en/ref.strings.php](http://php.net/manual/en/ref.strings.php){:target="_blank"} for a complete list of built-in functions that can be used on strings in PHP. 
 
 **Previous Post:** [PHP Strings](https://kennyalmendral.github.io/php-strings/)
