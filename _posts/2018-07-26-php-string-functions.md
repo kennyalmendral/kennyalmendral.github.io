@@ -5,7 +5,7 @@ title: PHP String Functions
 
 PHP has a wide array of internal (built-in) functions that can be used when working with strings. Think of a function as a tool that can take something as an input and returns an output (for now).
 
-Here's a list of the commonly used ones:
+Here's a list of the commonly used string functions:
 
 **strtolower**
 
@@ -58,16 +58,20 @@ echo 'A' . trim(' B C ') . 'D'; // Outputs: AB CD
 
 **strstr**
 
-This function finds a string within a string and takes two inputs. The first input is the string being searched while the second input is the search string or term, for example:
+Searches a string within a string and when found, it returns that particular string that's been found together with everything that follows.
+
+This function takes two inputs, the first input is the string being searched while the second input is the search string, for example:
 
 ```php
-$var = 'Hello World';
-echo strstr($var, 'World'); // Outputs: World
+$var = 'This is a string';
+echo strstr($var, 'a'); // Outputs: a string
 ```
 
 **str_replace**
 
-This function replaces a string with a string inside a string and takes three inputs. The first input is the string that will be replaced while the second input is the replacement string and the third input is source string where the replacement happens, for example:
+Replaces a string with a string inside a string. 
+
+This function takes three inputs, the first input is the "needle" (which is the string that will be replaced) while the second input is the replacement string and the third input is source string or "haystack" where the replacement happens, for example:
 
 ```php
 $target = 'World';
