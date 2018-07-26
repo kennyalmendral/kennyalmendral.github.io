@@ -3,11 +3,11 @@ layout: post
 title: PHP String Functions
 ---
 
-PHP has a wide array of internal (built-in) functions that can be used when working with strings. Think of a function as a tool that can take something as an input and returns an output (for now).
+PHP has a wide array of internal (built-in) functions that can be used when working with strings. For now, think of a function as a tool that can take something as an input and returns an output.
 
 Here's a list of the commonly used string functions:
 
-**strtolower**
+### strtolower
 
 Takes a string as an input and then converts it to lowercase, for example:
 
@@ -15,7 +15,7 @@ Takes a string as an input and then converts it to lowercase, for example:
 echo strtolower('Hello World'); // Outputs: Hello World
 ```
 
-**strtoupper**
+### strtoupper
 
 Takes a string as an input and then converts it to uppercase, for example:
 
@@ -23,7 +23,7 @@ Takes a string as an input and then converts it to uppercase, for example:
 echo strtoupper('Hello World'); // Outputs: HELLO WORLD
 ```
 
-**ucfirst**
+### ucfirst
 
 Takes a string as an input and then converts the first letter of that string to uppercase, for example: 
 
@@ -31,7 +31,7 @@ Takes a string as an input and then converts the first letter of that string to 
 echo ucfirst('this is a string'); // Outputs: This is a string
 ```
 
-**ucwords**
+### ucwords
 
 Takes a string as an input and then converts the first letter of every word in that string to uppercase, for example:
 
@@ -39,7 +39,7 @@ Takes a string as an input and then converts the first letter of every word in t
 echo ucwords('this is a string'); // Outputs: This Is A String
 ```
 
-**strlen**
+### strlen
 
 Takes a string as an input and then displays the length of that string, for example:
 
@@ -47,7 +47,7 @@ Takes a string as an input and then displays the length of that string, for exam
 echo strlen('string'); // Outputs: 6
 ```
 
-**trim**
+### trim
 
 Takes a string as an input and then removes the leading and trailing whitespace(s) from that string, for example:
 
@@ -56,7 +56,7 @@ echo trim('  Hello World '); // Outputs: Hello World
 echo 'A' . trim(' B C ') . 'D'; // Outputs: AB CD
 ```
 
-**strstr**
+### strstr
 
 Searches a string within a string and if found, it returns that particular string together with every word that follows it.
 
@@ -67,7 +67,7 @@ $var = 'This is a string';
 echo strstr($var, 'a'); // Outputs: a string
 ```
 
-**str_replace**
+### str_replace
 
 Replaces a string with a string inside a string. 
 
@@ -81,7 +81,7 @@ $source = 'Hello World';
 echo str_replace($target, $replace, $source); // Outputs: Hello Bird
 ```
 
-**str_repeat**
+### str_repeat
 
 Basically repeats a string.
 
@@ -91,7 +91,7 @@ This function takes two inputs, the first input is the string to repeat and the 
 echo str_repeat('Knock! ', 2); // Outputs: Knock! Knock!
 ```
 
-**substr**
+### substr
 
 Takes a portion of a string.
 
@@ -101,7 +101,7 @@ This function takes three inputs, the first input is the source string while the
 echo substr('This is a string', 10, 6); // Outputs: string
 ```
 
-**strpos**
+### strpos
 
 Shows the index or position of a string inside a string (keep in mind that the indexing starts at zero).
 
@@ -111,7 +111,7 @@ This function takes two inputs, the first input is the source string and the sec
 echo strpos('This is a string', 'string'); // Outputs: 10
 ```
 
-**strchr**
+### strchr
 
 Similar to `strstr` but it searches a character instead of a string within a string and if found, it returns that particular character together with everything that follows it.
 
