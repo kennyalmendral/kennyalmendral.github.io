@@ -7,10 +7,54 @@ PHP has a wide array of built-in functions that can be used when working with st
 
 Here's a list of the commonly used ones:
 
-+ `strtolower()` - Converts a string to lowercase, e.g. `echo strtolower('Hello World');` which will output `hello world`;
-+ `strtoupper()` - Converts a string to uppercase, e.g. `echo strtolower('Hello World');` which will output `HELLO WORLD`;
-+ `ucfirst()` - Converts the first letter of a string to uppercase, e.g. `echo ucfirst('this is a string');` which will output `This is a string`;
-+ `ucwords()` -  Converts the first letter of every word in a string to uppercase, e.g. `echo ucwords('this is a string');` which will output `This Is A String`;
+**strtolower**
+
+Takes a string as an input and then converts it to lowercase, for example:
+
+```php
+echo strtolower('Hello World'); // Outputs: Hello World
+```
+
+**strtoupper**
+
+Takes a string as an input and then converts it to uppercase, for example:
+
+```php
+echo strtolower('Hello World'); // Outputs: HELLO WORLD
+```
+
+**ucfirst**
+
+Takes a string as an input and then converts the first letter of that string to uppercase, for example: 
+
+```php
+echo ucfirst('this is a string'); // Outputs: This is a string
+```
+
+**ucwords**
+
+Takes a string as an input and then converts the first letter of every word in that string to uppercase, for example:
+
+```php
+echo ucwords('this is a string'); // Outputs: This Is A String
+```
+
+**strlen**
+
+Takes a string as an input and then displays the length of that string, for example:
+
+```php
+echo strlen('string'); // Outputs: 6
+```
+
+**trim**
+
+Takes a string as an input and then removes the leading and trailing whitespace(s) from that string, for example:
+
+```php
+echo trim('  Hello World '); // Outputs: Hello World
+echo 'A' . trim(' B C ') . 'D'; // Outputs: AB CD
+```
 
 **Previous Post:** [PHP Strings](https://kennyalmendral.github.io/php-strings/)
 
