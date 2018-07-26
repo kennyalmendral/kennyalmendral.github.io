@@ -3,6 +3,8 @@ layout: post
 title: PHP Variables and Comments
 ---
 
+Variables and comments are widely used in PHP as a fundamental building block.
+
 ## Variables
 
 A variable is symbolic representation of a value. As its name suggest, it can "vary" overtime because it can point to different values.
