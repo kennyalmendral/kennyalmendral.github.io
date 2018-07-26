@@ -58,7 +58,7 @@ echo 'A' . trim(' B C ') . 'D'; // Outputs: AB CD
 
 **strstr**
 
-Searches a string within a string and when found, it returns that particular string that has been found together with everything that follows.
+Searches a string within a string and when found, it returns that particular string together with every word that follows it.
 
 This function takes two inputs, the first input is the string being searched while the second input is the search string, for example:
 
