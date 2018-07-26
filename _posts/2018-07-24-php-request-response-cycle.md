@@ -17,7 +17,7 @@ This cycle in PHP describes the way that a browser and a web server communicate 
 
 **Previous Post:** [PHP Overview](https://kennyalmendral.github.io/php-overview/)
 
-**Next Post:** [PHP Variables](https://kennyalmendral.github.io/php-variables/)
+**Next Post:** [PHP Variables and Comments](https://kennyalmendral.github.io/php-variables-comments/)
 
 _This is part 2 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
     
