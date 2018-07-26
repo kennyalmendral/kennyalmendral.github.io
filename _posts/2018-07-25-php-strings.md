@@ -43,7 +43,7 @@ $var = 'Hello';
 $var = $var . ' World';
 ```
 
-**Previous Post:** [PHP Variables](https://kennyalmendral.github.io/php-variables/)
+**Previous Post:** [PHP Variables and Comments](https://kennyalmendral.github.io/php-variables-comments/)
 
 **Next Post:** [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
 
