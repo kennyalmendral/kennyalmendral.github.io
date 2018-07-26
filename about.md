@@ -6,15 +6,17 @@ permalink: /about/
 
 I try to write about what I already know and what I’m currently learning about [this damn industry](https://code.tutsplus.com/articles/this-damn-industry--net-17054){:target="_blank"}.
 
-When not glued to my computer, I can be seen wandering around empty streets nearby during midnight, contemplating the reasons for my existence... Anyways, I try to make art and do music covers if I find the time.
+When not glued to my computer, I can be seen wandering around empty streets nearby during midnight, contemplating the reasons for my existence...
 
-**Art Works**
+Anyways, I try to make art and do music covers if I find the time.
+
+### Art Works
 
 + [Self Portrait](https://raw.githubusercontent.com/kennyalmendral/artworks/master/self-portrait.png){:target="_blank"}
 + [Winnie](https://raw.githubusercontent.com/kennyalmendral/artworks/master/winnie.png){:target="_blank"}
 + [Composition Studies](https://raw.githubusercontent.com/kennyalmendral/artworks/master/composition-studies.png){:target="_blank"}
 
-**Music Covers**
+### Music Covers
 
 + [Stratovarius - Eagleheart](https://www.youtube.com/watch?v=guJcWXVhs9Q){:target="_blank"}
 + [Epica - Unchain Utopia](https://www.youtube.com/watch?v=p_0UvPIM6Cg){:target="_blank"}
