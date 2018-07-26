@@ -26,4 +26,4 @@ Anyways, I try to make art and do music covers if I find the time.
 + [Corelli - La Folia](https://www.youtube.com/watch?v=ACbEEgqWu0Q){:target="_blank"}
 + [Megadeth - Dawn Patrol](https://www.youtube.com/watch?v=9u2-IFo9FlA){:target="_blank"}
 
-If you want to get in touch, [email me](mailto:kennyalmendral@gmail.com) or [message me](https://facebook.com/kennyalmendral) on Facebook.
+If you want to get in touch, [email me](mailto:kennyalmendral@gmail.com) or [message me](https://facebook.com/kennyalmendral){:target="_blank"} on Facebook.
