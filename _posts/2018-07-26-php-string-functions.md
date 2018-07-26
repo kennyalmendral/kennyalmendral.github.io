@@ -20,7 +20,7 @@ echo strtolower('Hello World'); // Outputs: Hello World
 Takes a string as an input and then converts it to uppercase, for example:
 
 ```php
-echo strtolower('Hello World'); // Outputs: HELLO WORLD
+echo strtoupper('Hello World'); // Outputs: HELLO WORLD
 ```
 
 **ucfirst**
@@ -58,7 +58,7 @@ echo 'A' . trim(' B C ') . 'D'; // Outputs: AB CD
 
 **strstr**
 
-Searches a string within a string and when found, it returns that particular string that's been found together with everything that follows.
+Searches a string within a string and when found, it returns that particular string that has been found together with everything that follows.
 
 This function takes two inputs, the first input is the string being searched while the second input is the search string, for example:
 
