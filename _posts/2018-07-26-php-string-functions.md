@@ -60,7 +60,7 @@ echo 'A' . trim(' B C ') . 'D'; // Outputs: AB CD
 
 Searches a string within a string and if found, it returns that particular string together with every word that follows it.
 
-This function takes two inputs, the first input is the string being searched while the second input is the search string, for example:
+This function takes two inputs, the first input is the source string and the second input is the search string, for example:
 
 ```php
 $var = 'This is a string';
@@ -71,7 +71,7 @@ echo strstr($var, 'a'); // Outputs: a string
 
 Replaces a string with a string inside a string. 
 
-This function takes three inputs, the first input is the "needle" (which is the string that will be replaced) while the second input is the replacement string and the third input is source string or "haystack" where the replacement happens, for example:
+This function takes three inputs, the first input is the "needle" (which is the string that will be replaced), the second input is the replacement string and the third input is the source string or "haystack" where the replacement happens, for example:
 
 ```php
 $target = 'World';
@@ -95,7 +95,7 @@ echo str_repeat('Knock! ', 2); // Outputs: Knock! Knock!
 
 Takes a portion of a string.
 
-This function takes three inputs, the first input is the source string while the second input is a number which is considered as the starting index (the indexing starts at zero by the way) and the third input is also a number that will be used to determine how many steps to take starting from that starting index, for example:
+This function takes three inputs, the first input is the source string, the second input is a number which is considered as the starting index (the indexing starts at zero by the way) and the third input is also a number that will be used to determine how many steps to take starting from that starting index, for example:
 
 ```php
 echo substr('This is a string', 10, 6); // Outputs: string
@@ -115,7 +115,7 @@ echo strpos('This is a string', 'string'); // Outputs: 10
 
 Similar to `strstr` but it searches a character instead of a string within a string and if found, it returns that particular character together with everything that follows it.
 
-This function takes two inputs, the first input is the string being searched and the second input is the search character, for example:
+This function takes two inputs, the first input is the source string and the second input is the search character, for example:
 
 ```php
 echo strchr('This is a string', 'a'); // Outputs: a string
