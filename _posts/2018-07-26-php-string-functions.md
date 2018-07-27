@@ -125,6 +125,8 @@ See [http://php.net/manual/en/ref.strings.php](http://php.net/manual/en/ref.stri
 
 **Previous Post:** [PHP Strings](https://kennyalmendral.github.io/php-strings/)
 
+**Next Post:** [PHP Numbers](https://kennyalmendral.github.io/php-numbers/)
+
 _This is part 5 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
 
 ---
