@@ -27,9 +27,9 @@ Take note that in PHP, basic math rules like the parentheses and the order of op
 Therefore...
 
 + `1 + 5 + $var1` will be evaluated first which returns `7`.
-+ Then gets multiplied by the value of `$var2` which returns `17.5`.
-+ Then gets divided by `2` which returns `8.75`.
-+ Then gets subtracted by `3` which would then return `5.75`.
++ `7` gets multiplied by the value of `$var2` which returns `17.5`.
++ `17.5` gets divided by `2` which returns `8.75`.
++ `8.75` gets subtracted by `3` which would then return `5.75`.
 
 **Previous Post:** [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
 
