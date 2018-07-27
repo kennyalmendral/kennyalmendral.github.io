@@ -12,3 +12,4 @@ _This list is an ongoing effort._
 + [PHP Strings](https://kennyalmendral.github.io/php-strings/){:target="_blank"}
 + [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/){:target="_blank"}
 + [PHP Numbers](https://kennyalmendral.github.io/php-numbers/){:target="_blank"}
++ [PHP Number Functions and Operations](https://kennyalmendral.github.io/php-number-functions-operations/){:target="_blank"}
