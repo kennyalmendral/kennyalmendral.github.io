@@ -11,3 +11,4 @@ _This list is an ongoing effort._
 + [PHP Variables and Comments](https://kennyalmendral.github.io/php-variables-comments/){:target="_blank"}
 + [PHP Strings](https://kennyalmendral.github.io/php-strings/){:target="_blank"}
 + [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/){:target="_blank"}
++ [PHP Numbers](https://kennyalmendral.github.io/php-numbers/){:target="_blank"}
