@@ -4,7 +4,7 @@ title: PHP Basics
 permalink: /php-basics/
 ---
 
-_This list is an ongoing effort._
+This is a series of posts regarding the fundamental aspects of the PHP language.
 
 + [PHP Overview](https://kennyalmendral.github.io/php-overview/){:target="_blank"}
 + [PHP Request-Response Cycle](https://kennyalmendral.github.io/php-request-response-cycle/){:target="_blank"}
