@@ -3,7 +3,7 @@ layout: post
 title: PHP Numbers
 ---
 
-There are two types of number in PHP, namely, integers and floating point numbers which are also known as "floats".
+There are two types of number in PHP, namely, integers and floating point numbers, also known as “floats”.
 
 ## Integer
 
