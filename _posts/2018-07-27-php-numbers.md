@@ -24,7 +24,12 @@ echo ((1 + 5 + $var1) * $var2) / 2 - 3; // Outputs: 5.75
 
 Take note that in PHP, basic math rules like the parentheses and the order of operations between multiplication, division, addition and subtraction still applies.
 
-Therefore, `1 + 5 + $var1` will be evaluated first which returns the value of `7` and then gets multiplied by the value of `$var2` which is `2.5` and then gets divided by `2` and lastly, gets subtracted by `3` which would then return `5.75`.
+Therefore...
+
++ `1 + 5 + $var1` will be evaluated first which returns `7`.
++ Then gets multiplied by the value of `$var2` which returns `17.5`.
++ Then gets divided by `2` which returns `8.75`.
++ Then gets subtracted by `3` which would then return `5.75`.
 
 **Previous Post:** [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
 
