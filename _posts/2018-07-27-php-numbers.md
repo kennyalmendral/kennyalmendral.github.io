@@ -11,7 +11,7 @@ An integer is a whole number like 1, 2 and 3 as well as -1, -2 and -3.
 
 ## Floating point number
 
-A floating point number is a number that has a decimal in it followed by a number of significant digits like 2.5 or -4.2.
+A floating point number is a number that has a decimal in it followed by a number of significant digits like 2.5 or -4.202.
 
 **Example code:**
 
