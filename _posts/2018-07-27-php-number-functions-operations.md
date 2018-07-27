@@ -3,7 +3,7 @@ layout: post
 title: PHP Number Functions and Operations
 ---
 
-Secret walang clue :D
+Secret walang clue...
 
 **Previous Post:** [PHP Numbers](https://kennyalmendral.github.io/php-numbers/)
 
