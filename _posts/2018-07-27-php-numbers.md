@@ -31,10 +31,8 @@ Therefore...
 + 17.5 gets divided by `2` which returns 8.75.
 + 8.75 gets subtracted by `3` which would then return 5.75.
 
-**Previous Post:** [PHP String Functions](https://kennyalmendral.github.io/php-string-functions/)
+**Previous Post:** [PHP String Functions]({{ site.url }}/php-string-functions/)
 
-**Next Post:** [PHP Number Functions and Operations](https://kennyalmendral.github.io/php-number-functions-operations/)
-
-_This is part 6 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
+_This is part 6 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
 
 ---

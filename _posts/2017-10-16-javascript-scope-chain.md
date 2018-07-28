@@ -66,4 +66,10 @@ The function `fn1` now sits lexically inside `fn2` and so its outer environment 
 
 Another thing is that since `fn1` is declared inside `fn2`, it cannot be invoked anymore in the global execution context, only in the `fn2`'s execution context itself.
 
+**Previous Post:** [Variable Environment in JavaScript]({{ site.url }}/javascript-variable-environment/)
+
+**Next Post:** [The Synchronous Nature of JavaScript]({{ site.url }}/synchronous-javascript/)
+
+_This is part 5 of the [JavaScript Concepts]({{ site.url }}/javascript-concepts/){:target="_blank"} series._
+
 ----

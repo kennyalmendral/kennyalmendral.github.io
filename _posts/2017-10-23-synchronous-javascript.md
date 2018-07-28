@@ -43,4 +43,8 @@ Run it in the browser and while the `longRunningFunction` is running, try clicki
 
 When the `longRunningFunction` is done with its execution, which then outputs `Finished longRunningFunction execution` in the developer console, that's the time where the `clickEventHandler` will fire and log `Triggered click event` in the developer console.
 
+**Previous Post:** [The JavaScript Scope Chain]({{ site.url }}/javascript-scope-chain/)
+
+_This is part 6 of the [JavaScript Concepts]({{ site.url }}/javascript-concepts/){:target="_blank"} series._
+
 ----

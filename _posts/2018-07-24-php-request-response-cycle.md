@@ -15,10 +15,10 @@ This cycle in PHP describes the way that a browser and a web server communicate 
 6. During the processing, Apache may need to go back and forth to the database a couple of times, it may be to request some information from the database, store information in the database, etc.
 7. Once the processing is done, there's one final step in which it assembles the HTML markup that's going to be returned and then sends that back to the browser and that's the response that the user sees.
 
-**Previous Post:** [PHP Overview](https://kennyalmendral.github.io/php-overview/)
+**Previous Post:** [PHP Overview]({{ site.url }}/php-overview/)
 
-**Next Post:** [PHP Variables and Comments](https://kennyalmendral.github.io/php-variables-comments/)
+**Next Post:** [PHP Variables and Comments]({{ site.url }}/php-variables-comments/)
 
-_This is part 2 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
-    
+_This is part 2 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
+
 ---

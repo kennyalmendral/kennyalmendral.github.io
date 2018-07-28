@@ -32,4 +32,10 @@ Afterwards, the JavaScript engine runs through your code and identifies the vari
 
 This is the phase where your code is interpreted, compiled and executed line by line. Variable assignment happens during this phase.
 
+**Previous Post:** [Understanding Hoisting in JavaScript]({{ site.url }}/understanding-javascript-hoisting/)
+
+**Next Post:** [Function Invocation and the Execution Stack in JavaScript]({{ site.url }}/javascript-function-invocation-execution-stack/)
+
+_This is part 2 of the [JavaScript Concepts]({{ site.url }}/javascript-concepts/){:target="_blank"} series._
+
 ----

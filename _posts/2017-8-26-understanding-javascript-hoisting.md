@@ -61,4 +61,8 @@ Called sampleFun()
 
 Even though the value of the `sampleVar` variable is now assigned with the `"Sample Variable"` string as its value, keep in mind that during the creation phase, the `sampleVar` variable is _hoisted_ (its value is initially set to `undefined`). It's during the [execution phase](https://kennyalmendral.github.io/javascript-execution-context/) that the `"Sample Variable"` string is assigned to the `sampleVar` variable.
 
+**Next Post:** [Execution Context in JavaScript]({{ site.url }}/javascript-execution-context/)
+
+_This is part 1 of the [JavaScript Concepts]({{ site.url }}/javascript-concepts/){:target="_blank"} series._
+
 ----

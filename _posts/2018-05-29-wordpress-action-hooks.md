@@ -54,4 +54,8 @@ The `display_copyright_notice` action will execute later than the other actions 
 
 Here's a complete list of default WordPress action hooks: [https://codex.wordpress.org/Plugin_API/Action_Reference](https://codex.wordpress.org/Plugin_API/Action_Reference){:target="_blank"}
 
+**Previous Post:** [WordPress Plugins in a Nutshell]({{ site.url }}/wordpress-plugins-nutshell/)
+
+_This is part 2 of the [WordPress Plugin Development]({{ site.url }}/wordpress-plugin-development/){:target="_blank"} series._
+
 ---

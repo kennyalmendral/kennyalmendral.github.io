@@ -63,10 +63,10 @@ In the example code above, `$sample_var` will contain the string `'Hello'` and t
 
 PHP has some words that are "reserved". These are words that you're not allowed to use when naming your variables. See [http://www.php.net/manual/en/reserved.php](http://www.php.net/manual/en/reserved.php){:target="_blank"} for reference.
 
-**Previous Post:** [PHP Request-Response Cycle](https://kennyalmendral.github.io/php-request-response-cycle/)
+**Previous Post:** [PHP Request-Response Cycle]({{ site.url }}/php-request-response-cycle/)
 
-**Next Post:** [PHP Strings](https://kennyalmendral.github.io/php-strings/)
+**Next Post:** [PHP Strings]({{ site.url }}/php-strings/)
 
-_This is part 3 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
-    
+_This is part 3 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
+
 ---

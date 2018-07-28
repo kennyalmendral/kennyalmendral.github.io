@@ -5,7 +5,7 @@ title: Import CSV Data Into WordPress Programmatically
 
 There's a lot of ways to import CSV data into WordPress, it's either by using the WordPress Importer or by installing a [plugin](https://kennyalmendral.github.io/wordpress-plugins-nutshell/).
 
-But what if you want to do some custom actions programmatically through code? That's where the following code snippet can be used:
+But what if you want to do some custom actions programmatically through code? That's where the following code snippet comes into play:
 
 ```php
 function import_csv_form() {

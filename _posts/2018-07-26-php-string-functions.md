@@ -123,10 +123,10 @@ echo strchr('This is a string', 'a'); // Outputs: a string
 
 See [http://php.net/manual/en/ref.strings.php](http://php.net/manual/en/ref.strings.php){:target="_blank"} for a complete list of built-in functions that can be used on strings in PHP.
 
-**Previous Post:** [PHP Strings](https://kennyalmendral.github.io/php-strings/)
+**Previous Post:** [PHP Strings]({{ site.url }}/php-strings/)
 
-**Next Post:** [PHP Numbers](https://kennyalmendral.github.io/php-numbers/)
+**Next Post:** [PHP Numbers]({{ site.url }}/php-numbers/)
 
-_This is part 5 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
+_This is part 5 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
 
 ---

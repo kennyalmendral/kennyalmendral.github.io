@@ -35,8 +35,8 @@ PHP doesn't need to be compiled, it's executed by the web server exactly as it's
 
 PHP generates HTML and can be embedded in any HTML markup, think of PHP as the input and HTML as the output.
 
-**Next Post:** [PHP Request-Response Cycle](https://kennyalmendral.github.io/php-request-response-cycle/)
+**Next Post:** [PHP Request-Response Cycle]({{ site.url }}/php-request-response-cycle/)
 
-_This is part 1 of the [PHP Basics](https://kennyalmendral.github.io/php-basics/){:target="_blank"} series._
-    
+_This is part 1 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
+
 ---

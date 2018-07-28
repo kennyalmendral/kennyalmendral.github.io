@@ -3,7 +3,7 @@ layout: post
 title: Function Invocation and the Execution Stack in JavaScript
 ---
 
-"Function Invocation" is just another term for calling a function using the open and close parentheses notation.
+Function invocation is just another term for calling a function using the open and close parentheses notation.
 
 To see it in action, create a JavaScript file and inside it, add a function that adds two numbers.
 
@@ -66,5 +66,11 @@ Initially, the global execution context is added to the stack and goes through t
 During this phase, the `fn1()`, `fn2()` and `fn3()` functions are [hoisted](https://kennyalmendral.github.io/understanding-javascript-hoisting/).
 
 Afterwards, it goes through the [execution phase](https://kennyalmendral.github.io/javascript-execution-context/) and in this phase, `fn2()` is invoked and it creates an execution context that is added on top of the global execution context and after it's done with its execution, it will be removed from the stack. The same is true with `fn1()` and `fn3()`.
+
+**Previous Post:** [Execution Context in JavaScript]({{ site.url }}/javascript-execution-context/)
+
+**Next Post:** [Variable Environment in JavaScript]({{ site.url }}/javascript-variable-environment/)
+
+_This is part 3 of the [JavaScript Concepts]({{ site.url }}/javascript-concepts/){:target="_blank"} series._
 
 ----

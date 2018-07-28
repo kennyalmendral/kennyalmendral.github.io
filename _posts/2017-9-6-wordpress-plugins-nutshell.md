@@ -40,4 +40,8 @@ WordPress features a few types and statuses for plugins:
 
 WordPress plugins can be downloaded (either paid or free) from a variety of sources like [CodeCanyon](https://codecanyon.net/category/wordpress){:target="_blank"} and the [Official WordPress Plugin Directory](http://wordpress.org/extend/plugins){:target="_blank"}. All the plugins available in the plugin directory are 100% GPL and free to use for personal or commercial purposes.
 
+**Next Post:** [Action Hooks in WordPress]({{ site.url }}/wordpress-action-hooks/)
+
+_This is part 1 of the [WordPress Plugin Development]({{ site.url }}/wordpress-plugin-development/){:target="_blank"} series._
+
 ----
