@@ -12,3 +12,4 @@ This is a series of posts regarding the fundamental aspects of the PHP language.
 + [PHP Strings]({{ site.url }}/php-strings/){:target="_blank"}
 + [PHP String Functions]({{ site.url }}/php-string-functions/){:target="_blank"}
 + [PHP Numbers]({{ site.url }}/php-numbers/){:target="_blank"}
++ [PHP Number Functions]({{ site.url }}/php-number-functions/){:target="_blank"}

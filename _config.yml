@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: kennyalmendral@gmail.com
-  facebook: kennyalmendral
+  facebook:
   flickr:
   github: kennyalmendral
   instagram:
@@ -28,7 +28,7 @@ footer-links:
   rss: https://kennyalmendral.github.io/feed.xml
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: KennyAlmendral
+  youtube:
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
