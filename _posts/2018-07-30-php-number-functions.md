@@ -114,6 +114,8 @@ echo is_numeric('one'); // Outputs:
 
 With regards to value returned by the `is_int`, `is_float` and `is_number` functions, take note that 1 means `true` and that blank means `false`.
 
+See [http://php.net/manual/en/ref.math.php](http://php.net/manual/en/ref.math.php){:target="_blank"} for a complete list of built-in functions that can be used on numbers in PHP.
+
 **Previous Post:** [PHP Numbers]({{ site.url }}/php-numbers/)
 
 _This is part 7 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
