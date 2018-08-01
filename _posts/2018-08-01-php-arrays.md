@@ -120,7 +120,7 @@ $animals[] = 'pig';
 print_r($animals); // Outputs: Array ( [0] => cat [1] => dog [2] => pig )
 ```
 
-Take note that the item added using this method will always be the last item in the array.
+Take note that the item added using this method will always be placed as the last item in the array.
 
 As of PHP 5.4, the shorthand syntax for declaring an array which is the `[]` syntax can now be used instead of the `array()` syntax.
 
