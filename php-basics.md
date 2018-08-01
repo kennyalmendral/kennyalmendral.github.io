@@ -13,3 +13,4 @@ This is a series of posts regarding the fundamental aspects of the PHP language.
 + [PHP String Functions]({{ site.url }}/php-string-functions/){:target="_blank"}
 + [PHP Numbers]({{ site.url }}/php-numbers/){:target="_blank"}
 + [PHP Number Functions]({{ site.url }}/php-number-functions/){:target="_blank"}
++ [PHP Arrays]({{ site.url }}/php-arrays/){:target="_blank"}

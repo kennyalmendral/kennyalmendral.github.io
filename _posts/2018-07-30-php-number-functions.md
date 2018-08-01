@@ -118,6 +118,8 @@ See [http://php.net/manual/en/ref.math.php](http://php.net/manual/en/ref.math.ph
 
 **Previous Post:** [PHP Numbers]({{ site.url }}/php-numbers/)
 
+**Next Post:** [PHP Arrays]({{ site.url }}/php-arrays/)
+
 _This is part 7 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
 
 ---

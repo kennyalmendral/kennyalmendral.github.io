@@ -49,7 +49,7 @@ echo 'Child\'s Play'; // Outputs: Child's Play
 
 ## Appending Values
 
-You can append values to an existing variable using the dot equals operator, like so:
+You can append values to an existing variable using the dot equals operator like so:
 
 ```php
 $var = 'Hello';

@@ -37,7 +37,7 @@ $__var
 
 ### Value Assignment
 
-Using the equal sign, also known as the "value assignment operator", we can assign a value to a variable, like so:
+Using the equal sign, also known as the "value assignment operator", we can assign a value to a variable like so:
 
 ```php
 $var = 'This is a value';

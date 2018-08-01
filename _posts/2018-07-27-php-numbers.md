@@ -47,7 +47,7 @@ echo $var3 *= 2; // Outputs: 4
 echo $var4 /= 2; // Outputs: 10
 ```
 
-The above code can also be written in a much longer format, like so:
+The above code can also be written in a much longer format like so:
 
 ```php
 $var1 = 1;
