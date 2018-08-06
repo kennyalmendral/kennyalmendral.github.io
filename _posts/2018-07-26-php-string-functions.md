@@ -13,7 +13,7 @@ Consider the following code:
 
 ```php
 function displayName($first_name, $last_name) {
-  return $first_name . ' ' . $last_name;
+    return $first_name . ' ' . $last_name;
 }
 
 echo displayName('John', 'Doe');

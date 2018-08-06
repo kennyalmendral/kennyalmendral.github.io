@@ -14,3 +14,4 @@ This is a series of posts regarding the fundamental aspects of the PHP language.
 + [PHP Numbers]({{ site.url }}/php-numbers/){:target="_blank"}
 + [PHP Number Functions]({{ site.url }}/php-number-functions/){:target="_blank"}
 + [PHP Arrays]({{ site.url }}/php-arrays/){:target="_blank"}
++ [PHP Associative Arrays]({{ site.url }}/php-associative-arrays/){:target="_blank"}

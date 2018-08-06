@@ -31,7 +31,9 @@ Now we have an array that consists of numbers and those numbers will always stay
 
 ## Retrieving Values
 
-To retrieve an item in an array, reference the array itself and then add brackets to it. Inside those brackets, we're going to provide the index or position that we wanted to retrieve, for example:
+To retrieve an item in an array, we reference that array and then append brackets to it.
+
+Inside those brackets, we're going to provide the index or position that we wanted to retrieve, for example:
 
 ```php
 $numbers = array(1, 2 ,3 ,4, 5);
@@ -91,7 +93,7 @@ array(2) {
 }
 ```
 
-To retrieve values from an array inside an array, reference the array and append another set of brackets and inside those brackets, specify an index like so:
+To retrieve values from an array inside an array, we reference that array and append another set of brackets and inside those brackets, we specify an index like so:
 
 ```php
 echo $objects[5][0]; // Outputs: x
@@ -99,7 +101,7 @@ echo $objects[5][0]; // Outputs: x
 
 ## Modifying an Array
 
-To modify the value of a specific item in an array, reference the array with the item's index and assign a value to it like so:
+To modify the value of a specific item in an array, we reference that array with the item's index and assign a new value to it like so:
 
 ```php
 $animals = array('cat', 'dog', 'pig');
@@ -111,7 +113,7 @@ print_r($animals); // Outputs: Array ( [0] => cat [1] => dog [2] => rat )
 
 As you may have noticed, the string with the value of `'pig'` in the array which is located at index 2 was changed to `'rat'`.
 
-In order to add an item to an existing array, we reference the existing array, append empty brackets and assign a value to it like so:
+In order to add an item to an existing array, we reference that existing array, append empty brackets and assign a value to it like so:
 
 ```php
 $animals = array('cat', 'dog');
@@ -125,6 +127,8 @@ Take note that the item added using this method will always be placed as the las
 As of PHP 5.4, the shorthand syntax for declaring an array which is the `[]` syntax can now be used instead of the `array()` syntax.
 
 **Previous Post:** [PHP Number Functions]({{ site.url }}/php-number-functions/)
+
+**Next Post:** [PHP Associative Arrays]({{ site.url }}/php-associative-arrays/)
 
 _This is part 8 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
 
