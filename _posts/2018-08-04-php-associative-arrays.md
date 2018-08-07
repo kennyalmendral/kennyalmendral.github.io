@@ -72,6 +72,8 @@ As you may have noticed, a new key-value pair which is `[age] => 25` has been ad
 
 **Previous Post:** [PHP Arrays]({{ site.url }}/php-arrays/)
 
+**Next Post:** [PHP Array Functions]({{ site.url }}/php-array-functions/)
+
 _This is part 9 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
 
 ---

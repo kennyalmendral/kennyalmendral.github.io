@@ -15,3 +15,4 @@ This is a series of posts regarding the fundamental aspects of the PHP language.
 + [PHP Number Functions]({{ site.url }}/php-number-functions/){:target="_blank"}
 + [PHP Arrays]({{ site.url }}/php-arrays/){:target="_blank"}
 + [PHP Associative Arrays]({{ site.url }}/php-associative-arrays/){:target="_blank"}
++ [PHP Array Functions]({{ site.url }}/php-array-functions/){:target="_blank"}
