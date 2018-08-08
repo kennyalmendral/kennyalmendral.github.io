@@ -9,7 +9,7 @@ Here's a list of the commonly used array functions:
 
 ## count
 
-Takes an array as an argument and then counts all items in it, like so:
+Takes an array as an argument and then counts all items in it, for example:
 
 ```php
 $people = array('John', 'Jane');
@@ -18,7 +18,7 @@ echo count($people); // Outputs: 2
 
 ## max
 
-Takes an array as an argument and finds the highest value in it, like so:
+Takes an array as an argument and finds the highest value in it, for example:
 
 ```php
 $numbers = array(2, 100, 80, 50, 75);
@@ -27,7 +27,7 @@ echo max($numbers); // Outputs: 100
 
 ## min
 
-Takes an array as an argument and finds the lowest value in it, like so:
+Takes an array as an argument and finds the lowest value in it, for example:
 
 ```php
 $numbers = array(2, 100, 80, 50, 75);
@@ -76,33 +76,77 @@ print_r($letters); // Outputs: Array ( [0] => z [1] => s [2] => c [3] => b [4] =
 
 ## implode
 
+Converts an array into a string.
+
+This function accepts two parameters, the first parameter is the divider or "delimiter" that will be used to separate each item in the array when converted to a string and the second parameter is the array itself, for example:
+
+```php
+$people = array('John', 'Jane');
+print_r($people); // Outputs: Array ( [0] => 'John' [1] => 'Jane' )
+
+echo implode(',', $people); // Outputs: John,Jane
+echo implode(' ', $people); // Outputs: John Jane
+```
+
+As you may have noticed, the comma and the blank space are used as delimiters which are common. You can also combine both like so:
+
+```php
+echo implode(', ', $people); // Outputs: John, Jane
+```
+
 ## explode
 
-## array_sum
+Converts a string into an array.
 
-## array_product
+This function accepts two parameters, the first parameter is the delimiter and the second parameter is the array itself, for example:
 
-## array_rand
+```php
+$people = 'John,Jane';
+echo $people; // Outputs: John,Jane
 
-## array_unique
-
-## array_push
-
-## array_pop
-
-## array_shift
-
-## array_unshift
+print_r(explode(',', $people)); // Outputs: Array ( [0] => 'John' [1] => 'Jane' )
+```
 
 ## array_merge
 
-## array_keys
+Takes any number of arrays as an argument and merge them together, for example:
 
-## array_values
+```php
+$numbers = array(1, 2, 3, 4, 5);
+$letters = array('a', 'b', 'c', 'd', 'e');
+$numbers_letters = array_merge($numbers, $letters);
+
+print_r($numbers); // Outputs: Array ( [0] => 1 [1] => 2 [2] => 3 [3] => 4 [4] => 5 )
+print_r($letters); // Outputs: Array ( [0] => a [1] => b [2] => c [3] => d [4] => e )
+print_r($numbers_letters); // Outputs: Array ( [0] => 1 [1] => 2 [2] => 3 [3] => 4 [4] => 5 [5] => a [6] => b [7] => c [8] => d [9] => e )
+```
 
 ## in_array
 
+Checks if a value exists in an array.
+
+This function accepts two parameters, the first parameter is the search value or keyword and the second parameter is the array itself, for example:
+
+```php
+$countries = array('Norway', 'Finland', 'Sweden');
+
+echo in_array('Finland', $countries); // Outputs: 1
+echo in_array('Philippines', $countries); // Outputs:
+```
+
 ## is_array
+
+Checks if a variable is an array, for example:
+
+```php
+$people = array('John', 'Jane');
+$name = 'John Doe';
+
+echo is_array($people); // Outputs: 1
+echo is_array($name); // Outputs:
+```
+
+Once again, with regards to the value returned by the `in_array` and `is_array` functions, take note that 1 means true and that blank means false.
 
 See [http://php.net/manual/en/ref.array.php](http://php.net/manual/en/ref.array.php){:target="_blank"} for a complete list of built-in functions that can be used on arrays in PHP.
 
