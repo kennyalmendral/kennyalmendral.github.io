@@ -152,6 +152,8 @@ See [http://php.net/manual/en/ref.array.php](http://php.net/manual/en/ref.array.
 
 **Previous Post:** [PHP Associative Arrays]({{ site.url }}/php-associative-arrays/)
 
+**Next Post:** [PHP Booleans]({{ site.url }}/php-booleans/)
+
 _This is part 10 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
 
 ---
