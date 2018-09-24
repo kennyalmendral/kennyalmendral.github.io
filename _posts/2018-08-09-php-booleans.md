@@ -33,6 +33,8 @@ echo is_bool(false); // Outputs: 1
 
 **Previous Post:** [PHP Array Functions]({{ site.url }}/php-array-functions/)
 
+**Next Post:** [PHP Constants and NULL]({{ site.url }}/php-constants-null/)
+
 _This is part 11 of the [PHP Basics]({{ site.url }}/php-basics/){:target="_blank"} series._
 
 ---

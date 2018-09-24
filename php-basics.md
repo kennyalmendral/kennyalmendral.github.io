@@ -17,3 +17,7 @@ This is a series of posts regarding the fundamental aspects of the PHP language.
 + [PHP Associative Arrays]({{ site.url }}/php-associative-arrays/){:target="_blank"}
 + [PHP Array Functions]({{ site.url }}/php-array-functions/){:target="_blank"}
 + [PHP Booleans]({{ site.url }}/php-booleans/){:target="_blank"}
+<!---
++ [PHP Constants and NULL]({{ site.url }}/php-constants-null/){:target="_blank"}
++ [PHP Type Juggling and Type Casting]({{ site.url }}/php-type-juggling-type-casting/){:target="_blank"}
+-->
