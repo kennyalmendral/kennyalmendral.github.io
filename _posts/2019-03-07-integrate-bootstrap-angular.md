@@ -53,7 +53,7 @@ In your project root, open the `angular.json` file in your code editor and look 
 
 ```
 "styles": [
-	"node_modules/bootstrap/dist/css/bootstrap.min.css"
+  "node_modules/bootstrap/dist/css/bootstrap.min.css"
 ]
 ```
 
