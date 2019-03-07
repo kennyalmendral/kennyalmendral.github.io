@@ -11,6 +11,7 @@ global $wp;
 $current_page_slug = add_query_arg(array(), $wp->request);
 ```
 
----
+## Contributor
++ [Danna Maria Garcia](https://github.com/dannamariegarcia){:target="_blank"}
 
-# Test
+---
