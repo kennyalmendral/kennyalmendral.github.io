@@ -92,3 +92,5 @@ French (Swiss) | fr_CH
 Frisian | fy
 
 To be continued...
+
+---
