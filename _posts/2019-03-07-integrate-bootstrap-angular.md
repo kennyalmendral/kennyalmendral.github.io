@@ -3,7 +3,7 @@ layout: post
 title: Integrate Bootstrap with Angular
 ---
 
-Here's how you can install and integrate Bootstrap into your Angular project...
+Here's a step by step process on how you can install and integrate Bootstrap into your Angular project.
 
 ## Installation
 
