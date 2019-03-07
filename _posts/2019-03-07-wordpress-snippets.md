@@ -12,3 +12,5 @@ $current_page_slug = add_query_arg(array(), $wp->request);
 ```
 
 ---
+
+# Test
