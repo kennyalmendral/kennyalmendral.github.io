@@ -11,14 +11,14 @@ global $wp;
 $current_page_slug = add_query_arg(array(), $wp->request);
 ```
 
-### Retrieve the currently-queried object
+### Retrieve the Currently Queried Object
 ```php
 $ob = get_queried_object();
 ```
 
-### Get an HTML img element representing an image attachment
+### Get an HTML Image Element Representing an Image Attachment
 ```php
-wp_get_attachment_image( $id, 'size', 'bolean', array() );
+wp_get_attachment_image($id, 'size', 'bolean', array());
 ```
 
 #### Contributor
