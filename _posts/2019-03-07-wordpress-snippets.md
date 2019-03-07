@@ -17,4 +17,7 @@ Description Here
 $ob = get_queried_object();
 ```
 
+## Contributor
++ [Danna Garcia](https://github.com/dannamariegarcia){:target="_blank"}
+
 ---
