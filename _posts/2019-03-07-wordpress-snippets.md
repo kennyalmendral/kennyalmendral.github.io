@@ -58,6 +58,33 @@ function custom_excerpt_length($length) {
 add_filter('excerpt_length', 'custom_excerpt_length', 999);
 ```
 
+### Allow Additional Formats in the Media Library
+```php
+function add_custom_mime_types($mimes) {
+  $new_mime_types = array(
+    'zip' => 'application/zip',
+    'pdf' => 'application/pdf'
+  );
+  
+  return array_merge($mimes, $new_mime_types);
+}
+
+add_filter('upload_mimes', 'add_custom_mime_types');
+```
+
+### Customize WP Login Logo
+```php
+function custom_login_logo() {
+  echo '<style>';
+  echo '#login h1 a, .login h1 a {';
+  echo 'background-image: url(' . get_stylesheet_directory_uri() . '/images/logo.png');';
+  echo '}';
+  echo '</style>';
+}
+
+add_action('login_enqueue_scripts', 'custom_login_logo');
+```
+
 #### Contributor
 + [Danna Garcia](https://github.com/dannamariegarcia){:target="_blank"}
 
