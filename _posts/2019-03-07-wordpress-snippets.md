@@ -72,6 +72,24 @@ function add_custom_mime_types($mimes) {
 add_filter('upload_mimes', 'add_custom_mime_types');
 ```
 
+### Create Custom Shortcode
+Create a shortcode that can accept a series of arguments which can be used in a template file.
+```php
+function posts_shortcode($atts) {
+  ob_start();
+  
+  $a = shortcode_atts(array(
+    'type' => 'post'
+  ), $atts);
+
+  include(locate_template('front-page.php', false, false));
+  
+  return ob_get_clean();
+}
+
+add_shortcode('posts', 'posts_shortcode');
+```
+
 ### Customize WP Login Logo
 ```php
 function custom_login_logo() {
@@ -84,6 +102,7 @@ function custom_login_logo() {
 
 add_action('login_enqueue_scripts', 'custom_login_logo');
 ```
+
 
 #### Contributor
 + [Danna Garcia](https://github.com/dannamariegarcia){:target="_blank"}
