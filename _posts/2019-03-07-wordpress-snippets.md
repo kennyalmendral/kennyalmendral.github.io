@@ -72,22 +72,22 @@ function add_custom_mime_types($mimes) {
 add_filter('upload_mimes', 'add_custom_mime_types');
 ```
 
-
-### Shortcode
-Create shortcode which can use variables from the function to the template to be used
+### Create Custom Shortcode
+Create a shortcode that can accept a series of arguments which can be used in a template file.
 ```php
-function my_sample_shortcode( $atts ){
-    ob_start();
+function posts_shortcode($atts) {
+  ob_start();
+  
+  $a = shortcode_atts(array(
+    'type' => 'post'
+  ), $atts);
 
-    $a = shortcode_atts( array(
-        'type' => 'post',
-    ), $atts );
-
-    include( locate_template( 'content-my-sample.php', false, false ) ); 
-
-    return ob_get_clean();
+  include(locate_template('front-page.php', false, false));
+  
+  return ob_get_clean();
 }
-add_shortcode( 'my_sample', 'my_sample_shortcode' );
+
+add_shortcode('posts', 'posts_shortcode');
 ```
 
 ### Customize WP Login Logo
