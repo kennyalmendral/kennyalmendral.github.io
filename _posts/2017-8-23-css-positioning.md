@@ -27,7 +27,7 @@ When you apply `position: fixed` to an element, you'll be able to offset it from
 
 Stacking order can be controlled using the `z-index` CSS property and has three possible values: `auto`, any positive or negative integer and `inherit`. By default, positioned elements are stacked on top of each other based on where they are encountered in the source order, with the last object on top.
 
-Each element when give a `z-index` value, it creates a "stacking context", so the initial stacking context in a document is the initial root tag which is the `<html>` element. Once you apply a `z-index` value to an element, that element begins a new stacking context and if that element contains child elements, all of them are now considered a part of that stacking context which is different from the initial stacking context of the root `<html>` element.
+Each element when given a `z-index` value creates a "stacking context", so the initial stacking context in a document is the initial root tag which is the `<html>` element. Once you apply a `z-index` value to an element, that element begins a new stacking context and if that element contains child elements, all of them are now considered a part of that stacking context which is different from the initial stacking context of the root `<html>` element.
 
 Items are ordered based on "stacking context." The root element forms the initial stacking context, with other stacking contexts being created by applying a `z-index` value other than `auto`.
 
