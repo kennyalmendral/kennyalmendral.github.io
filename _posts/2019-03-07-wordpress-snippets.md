@@ -103,6 +103,19 @@ function custom_login_logo() {
 add_action('login_enqueue_scripts', 'custom_login_logo');
 ```
 
+### WP Admin AJAX URL
+Store the WordPress admin AJAX URL to a JavaScript variable for frontend AJAX request purposes.
+```php
+function add_ajax_url() {
+  $ajax_url_html = '<script>';
+  $ajax_url_html .= 'var ajaxUrl="' . admin_url('admin-ajax.php') . '"';
+  $ajax_url_html .= '</script>';
+  
+  echo $ajax_url_html;
+}
+
+add_action('wp_head', 'add_ajax_url');
+```
 
 #### Contributor
 + [Danna Garcia](https://github.com/dannamariegarcia){:target="_blank"}
