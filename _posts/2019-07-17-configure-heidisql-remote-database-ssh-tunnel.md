@@ -5,6 +5,8 @@ title: Configure HeidiSQL to Access Remote Database via SSH Tunnel
 
 Here's a quick guide on how to access a remote database in HeidiSQL using [SSH Tunnel](https://www.ssh.com/ssh/tunneling/example){:target="_blank"}, which is a mechanism in [SSH](https://www.ssh.com/ssh/){:target="_blank"} for tunneling application ports from the client machine to the server machine and vice versa.
 
+Suppose HeidiSQL is already running, click on an existing session or create a new one by clicking the **New** button.
+
 ## Basic Settings
 
 Under the **Settings** tab, do the following:
