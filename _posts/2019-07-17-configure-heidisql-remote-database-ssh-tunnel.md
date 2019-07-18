@@ -38,6 +38,6 @@ Under the **SSH tunnel** tab, do the following:
 - Increase or decrease the **plink.exe timeout** value or just leave the default value.
 - Set the **Private key file** to the path of the `id_rsa.ppk` file. If you currently don't have one, download `puttygen.exe` [here](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html){:target="_blank"} in order to generate one. The executable file can be found under the **Alternative binary files** section.
 
-  Run `puttygen.exe` and click the **Conversions** menu item and then click **Import key** and then select the `id_rsa` private key file. Afterwards, make sure that the **Type of key to generate** is set to `RSA` and also, you can enter a **Key passphrase** if you want. Click the **Generate** button if you're done.
+  Run `puttygen.exe` and click the **Conversions** menu item and then click **Import key** and then select the `id_rsa` private key file. Afterwards, make sure that the **Type of key to generate** is set to `RSA` and also, you can enter a **Key passphrase** if you want. Click the **Generate** button when you're done.
 
 Don't forget to click the **Save** button before you click **Open**, otherwise, you'll be repeating the process once you close and run HeidiSQL again.
