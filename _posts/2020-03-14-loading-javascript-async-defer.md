@@ -9,7 +9,7 @@ For the links to external JavaScript files, however, the `defer` and `async` att
 
 ## defer
 
-The `defer` attribute will load the script asynchronously while the HTML is being parsed. After the HTML is parsed, the script will then execute. This is like placing the script tag before the closing `</body>` tag (as mentioned before) but a little bit faster since the script is already loaded when the HTML is parsed and all it has to do is to execute.
+The `defer` attribute will load the script asynchronously while the HTML is being parsed. After the HTML is parsed, the script will then execute. This is like placing the script tag before the closing `</body>` tag (as mentioned before) but a little bit faster since the script is already loaded when the HTML is parsed and all it has to do is execute.
 
 ![defer](https://raw.githubusercontent.com/kennyalmendral/kennyalmendral.github.io/master/images/defer.png "defer")
 
