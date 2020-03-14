@@ -5,7 +5,7 @@ title: PHP Request-Response Cycle
 
 This cycle in PHP describes the way that a browser and a web server communicate to process user requests. It may seem simple, but it's important to keep it in mind while developing with PHP because things like header redirection, output buffering and setting cookies are all affected by this cycle.
 
-![alt text](https://raw.githubusercontent.com/kennyalmendral/kennyalmendral.github.io/master/images/request-response-cycle.png "Request-Response Cycle")
+![PHP Request-Response Cycle](https://raw.githubusercontent.com/kennyalmendral/kennyalmendral.github.io/master/images/request-response-cycle.png "PHP Request-Response Cycle")
 
 1. To start with, we have our browser and the web server.
 2. The browser makes a request to the web server, e.g. you typed in the domain of a site.
